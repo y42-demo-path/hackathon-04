@@ -1,0 +1,73 @@
+Rob de Wit
+OP
+ — 05/03/2024 3:07 AM
+Welcome to the community kickstart hackathon! In this event, we're challenging you to build a cool project in Y42. Of course, there will also be some great prizes up for grabs.
+
+🎯 Your mission, should you choose to accept it
+
+In this hackathon, we'll provide you with your very own Y42 space. We want you to use Y42 to build the coolest data pipeline you can come up with. Integrate as many data sources as you want, and use dive into the data to find cool insights. Then tell us about those cool insights.
+
+To participate, we ask you to do the following:
+
+Register as a participant
+Create a data pipeline in Y42 that ingests and transforms data of your choice
+Gather insights from the data you processed using Y42
+Submit your project and tell us about what you found in the data
+Share your feedback on Y42
+
+🏆 Prizes and review process
+
+A hackathon wouldn't be complete without amazing prizes, of course! Here's what's up for grabs:
+
+🥇 1st prize: Macbook Pro 13"
+🥈 2nd prize: Airpods Max
+🥉 3rd prize: Airpods Pro
+4th prize: €100 Amazon giftcard
+5th prize: €50 Amazon giftcard
+
+A professional jury will pick the best entries, based on the following criteria:
+
+Creativity
+Complexity
+Insightfulness
+Storytelling
+
+The jury's selection will be submitted for community voting. That means that all Y42 enthusiasts will collectively decide which hackathon projects are the coolest! 
+Rob de Wit
+OP
+ — 05/03/2024 3:45 AM
+📕 Rules and practicalities
+
+To participate you must be at least 18 years old.
+The deadline for submissions closes on 2024-06-30 at 23:59 CET.
+The jury will compile a shortlist of entries that are submitted for community voting.
+The community votes will determine the winners of the hackathon.
+The winners will be announced on 2024-07-31 at the latest.
+The code of submitted projects will be public on GitHub and released under the Apache 2.0 license.
+The data you use in the hackathon will be processed and stored by Y42. Do not use private or sensitive data!
+Upon completion of the hackathon, you will lose access to the Y42 space.
+
+When you sign up as a participant, you agree to the following:
+
+Y42 may use your personal details to contact you and send you marketing emails (from which you may unsubscribe at any time)
+You will only process data on Y42 that you have the right to use and process
+Y42 may use the project you submit for marketing purposes
+When submitting your entry, you will fill out a feedback form to share your experience with Y42*
+Y42 may use quotes from your submitted feedback for marketing purposes
+If you're the winner of one of the prizes, you'll be responsible for any taxes and/or import duties once Y42 sends over your prize.
+
+*The feedback you provide on Y42 will not affect your chances of winning the hackathon. The jury will not see your feedback before or while making their selection.
+
+🗳️ Registration
+
+To register, fill out this form: https://docs.google.com/forms/d/e/1FAIpQLSeOFdBx4CYNFxW-G_xYyIGi3dH9586aFyGkPYz_FT-1SsdXKg/viewform
+
+After you have filled out the form, we will share a Y42 space for you to work in. Please note that it takes a little while to configure a space for you, so don't wait until the last moment to register. 
+Google Docs
+Y42 hackathon registration
+You can find all details on the Y42 community kickstart hackathon here:
+https://discord.com/channels/1234485158716116992/1235895421512187904
+
+Fill out this form if you want to register as a participant for the hackathon.
+
+Deadline for submission is 2024-06-30. Registration will remain open during the hackathon.
